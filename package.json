@@ -1,0 +1,23 @@
+{
+  "name": "http_test_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilay1710/http_test_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilay1710/http_test_project/issues"
+  },
+  "homepage": "https://github.com/nilay1710/http_test_project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
